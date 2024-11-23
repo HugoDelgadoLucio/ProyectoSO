@@ -1,0 +1,16 @@
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\bin\Debug\net8.0-windows\WinFormsSimuladorMk3.exe
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\bin\Debug\net8.0-windows\WinFormsSimuladorMk3.deps.json
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\bin\Debug\net8.0-windows\WinFormsSimuladorMk3.runtimeconfig.json
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\bin\Debug\net8.0-windows\WinFormsSimuladorMk3.dll
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\bin\Debug\net8.0-windows\WinFormsSimuladorMk3.pdb
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.Form1.resources
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\WinFormsSimuladorMk3.csproj.GenerateResource.cache
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\WinFormsSimuladorMk3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\WinFormsSimuladorMk3.AssemblyInfoInputs.cache
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\WinFormsSimuladorMk3.AssemblyInfo.cs
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\WinFormsSimuladorMk3.csproj.CoreCompileInputs.cache
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\WinFormsSimuladorMk3.dll
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\refint\WinFormsSimuladorMk3.dll
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\WinFormsSimuladorMk3.pdb
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\WinFormsSimuladorMk3.genruntimeconfig.cache
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk3\obj\Debug\net8.0-windows\ref\WinFormsSimuladorMk3.dll

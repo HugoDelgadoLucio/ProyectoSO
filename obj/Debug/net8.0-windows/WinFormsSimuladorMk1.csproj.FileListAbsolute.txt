@@ -1,0 +1,16 @@
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\bin\Debug\net8.0-windows\WinFormsSimuladorMk1.exe
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\bin\Debug\net8.0-windows\WinFormsSimuladorMk1.deps.json
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\bin\Debug\net8.0-windows\WinFormsSimuladorMk1.runtimeconfig.json
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\bin\Debug\net8.0-windows\WinFormsSimuladorMk1.dll
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\bin\Debug\net8.0-windows\WinFormsSimuladorMk1.pdb
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.Form1.resources
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.csproj.GenerateResource.cache
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.AssemblyInfoInputs.cache
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.AssemblyInfo.cs
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.csproj.CoreCompileInputs.cache
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.dll
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\refint\WinFormsSimuladorMk1.dll
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.pdb
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\WinFormsSimuladorMk1.genruntimeconfig.cache
+C:\Users\Hugod\Desktop\Proyecto\Proyecto_SO\WinFormsSimuladorMk1\obj\Debug\net8.0-windows\ref\WinFormsSimuladorMk1.dll
